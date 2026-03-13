@@ -1,0 +1,484 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\winformsapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:winformsapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\appfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:appfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\excelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:excelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\services\\codesoftlabelprintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:services\\codesoftlabelprintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\jsonfilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:jsonfilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\sqlserverdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:sqlserverdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\ruleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:ruleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\billtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:billtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\billtypeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:billtypeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\sql\\cgdh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:sql\\cgdh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\sql\\hwtz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:sql\\hwtz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\sql\\billsqlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:sql\\billsqlfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\sql\\otherin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:sql\\otherin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\sql\\cgrk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:sql\\cgrk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|c:\\users\\administrator\\desktop\\labelprint\\winformsapp1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90040F4F-9C07-4B58-87CF-80E51CF15666}|WinFormsApp1.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WinFormsApp1",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp1.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeToolTip": "WinFormsApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T02:03:08.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinFormsApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp1.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeToolTip": "WinFormsApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T02:02:58.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form4.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form4.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:26:05.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:09:24.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppFiles.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\AppFiles.cs",
+              "RelativeDocumentMoniker": "AppFiles.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\AppFiles.cs",
+              "RelativeToolTip": "AppFiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:33:59.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JsonFileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\JsonFileHelper.cs",
+              "RelativeDocumentMoniker": "JsonFileHelper.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\JsonFileHelper.cs",
+              "RelativeToolTip": "JsonFileHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:32:29.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RuleItem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\RuleItem.cs",
+              "RelativeDocumentMoniker": "RuleItem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\RuleItem.cs",
+              "RelativeToolTip": "RuleItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:19:33.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:07:29.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:09:29.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:32:35.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CodeSoftLabelPrintService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Services\\CodeSoftLabelPrintService.cs",
+              "RelativeDocumentMoniker": "Services\\CodeSoftLabelPrintService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Services\\CodeSoftLabelPrintService.cs",
+              "RelativeToolTip": "Services\\CodeSoftLabelPrintService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T02:59:08.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-21T03:27:51.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\AppConfig.cs",
+              "RelativeDocumentMoniker": "AppConfig.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\AppConfig.cs",
+              "RelativeToolTip": "AppConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:34:18.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SqlServerDb.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\SqlServerDb.cs",
+              "RelativeDocumentMoniker": "SqlServerDb.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\SqlServerDb.cs",
+              "RelativeToolTip": "SqlServerDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:50:05.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-21T06:00:07.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OtherIN.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Sql\\OtherIN.cs",
+              "RelativeDocumentMoniker": "Sql\\OtherIN.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Sql\\OtherIN.cs",
+              "RelativeToolTip": "Sql\\OtherIN.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvygAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T17:25:25.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExcelHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\ExcelHelper.cs",
+              "RelativeDocumentMoniker": "ExcelHelper.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\ExcelHelper.cs",
+              "RelativeToolTip": "ExcelHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T08:05:46.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T02:19:00.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:34:36.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HWTZ.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Sql\\HWTZ.cs",
+              "RelativeDocumentMoniker": "Sql\\HWTZ.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Sql\\HWTZ.cs",
+              "RelativeToolTip": "Sql\\HWTZ.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwC8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:15:57.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BillTypeProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\BillTypeProvider.cs",
+              "RelativeDocumentMoniker": "BillTypeProvider.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\BillTypeProvider.cs",
+              "RelativeToolTip": "BillTypeProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T09:24:25.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BillType.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\BillType.cs",
+              "RelativeDocumentMoniker": "BillType.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\BillType.cs",
+              "RelativeToolTip": "BillType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T09:23:38.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BillSqlFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Sql\\BillSqlFactory.cs",
+              "RelativeDocumentMoniker": "Sql\\BillSqlFactory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Sql\\BillSqlFactory.cs",
+              "RelativeToolTip": "Sql\\BillSqlFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:36:31.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CGDH.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Sql\\CGDH.cs",
+              "RelativeDocumentMoniker": "Sql\\CGDH.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Sql\\CGDH.cs",
+              "RelativeToolTip": "Sql\\CGDH.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAABIwDAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:55:55.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CGRK.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Sql\\CGRK.cs",
+              "RelativeDocumentMoniker": "Sql\\CGRK.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Sql\\CGRK.cs",
+              "RelativeToolTip": "Sql\\CGRK.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T17:20:47.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form3.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form3.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form3.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T09:06:43.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T09:24:54.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form2.Designer.cs",
+              "RelativeToolTip": "Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:36:38.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form2.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\labelPrint\\WinFormsApp1\\Form2.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form2.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:37:06.406Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

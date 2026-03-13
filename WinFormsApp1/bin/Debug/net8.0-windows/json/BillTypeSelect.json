@@ -1,0 +1,57 @@
+[
+  {
+    "Selected": false,
+    "FieldCode": "CGDH",
+    "FieldName": "\u91C7\u8D2D\u5230\u8D27\u5355"
+  },
+  {
+    "Selected": false,
+    "FieldCode": "CGRK",
+    "FieldName": "\u91C7\u8D2D\u5165\u5E93\u5355"
+  },
+  {
+    "Selected": true,
+    "FieldCode": "XSCK",
+    "FieldName": "\u9500\u552E\u51FA\u5E93\u5355"
+  },
+  {
+    "Selected": true,
+    "FieldCode": "CCPRK",
+    "FieldName": "\u4EA7\u6210\u54C1\u5165\u5E93\u5355"
+  },
+  {
+    "Selected": true,
+    "FieldCode": "OtherIN",
+    "FieldName": "\u5176\u4ED6\u5165\u5E93\u5355"
+  },
+  {
+    "Selected": false,
+    "FieldCode": "OtherOUT",
+    "FieldName": "\u5176\u4ED6\u51FA\u5E93\u5355"
+  },
+  {
+    "Selected": false,
+    "FieldCode": "CLCK",
+    "FieldName": "\u6750\u6599\u51FA\u5E93\u5355"
+  },
+  {
+    "Selected": false,
+    "FieldCode": "DBD",
+    "FieldName": "\u8C03\u62E8\u5355"
+  },
+  {
+    "Selected": false,
+    "FieldCode": "PDD",
+    "FieldName": "\u76D8\u70B9\u5355"
+  },
+  {
+    "Selected": false,
+    "FieldCode": "XTZY",
+    "FieldName": "\u5F62\u6001\u8F6C\u6362\u5355"
+  },
+  {
+    "Selected": false,
+    "FieldCode": "HWTZ",
+    "FieldName": "\u8D27\u4F4D\u8C03\u6574\u5355"
+  }
+]

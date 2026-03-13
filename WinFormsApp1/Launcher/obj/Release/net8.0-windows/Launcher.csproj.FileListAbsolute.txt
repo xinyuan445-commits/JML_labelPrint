@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\labelPrint\WinFormsApp1\Launcher\bin\Release\net8.0-windows\appsettings.json
+C:\Users\Administrator\Desktop\labelPrint\WinFormsApp1\Launcher\bin\Release\net8.0-windows\Launcher.exe
+C:\Users\Administrator\Desktop\labelPrint\WinFormsApp1\Launcher\bin\Release\net8.0-windows\Launcher.deps.json
+C:\Users\Administrator\Desktop\labelPrint\WinFormsApp1\Launcher\bin\Release\net8.0-windows\Launcher.runtimeconfig.json
+C:\Users\Administrator\Desktop\labelPrint\WinFormsApp1\Launcher\bin\Release\net8.0-windows\Launcher.dll
+C:\Users\Administrator\Desktop\labelPrint\WinFormsApp1\Launcher\bin\Release\net8.0-windows\Launcher.pdb
+C:\Users\Administrator\Desktop\labelPrint\WinFormsApp1\Launcher\obj\Release\net8.0-windows\Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\labelPrint\WinFormsApp1\Launcher\obj\Release\net8.0-windows\Launcher.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\labelPrint\WinFormsApp1\Launcher\obj\Release\net8.0-windows\Launcher.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\labelPrint\WinFormsApp1\Launcher\obj\Release\net8.0-windows\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\labelPrint\WinFormsApp1\Launcher\obj\Release\net8.0-windows\Launcher.dll
+C:\Users\Administrator\Desktop\labelPrint\WinFormsApp1\Launcher\obj\Release\net8.0-windows\refint\Launcher.dll
+C:\Users\Administrator\Desktop\labelPrint\WinFormsApp1\Launcher\obj\Release\net8.0-windows\Launcher.pdb
+C:\Users\Administrator\Desktop\labelPrint\WinFormsApp1\Launcher\obj\Release\net8.0-windows\Launcher.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\labelPrint\WinFormsApp1\Launcher\obj\Release\net8.0-windows\ref\Launcher.dll
